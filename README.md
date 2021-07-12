@@ -1,7 +1,7 @@
-# CalculadoraJavaScript
+# Clock Javascript Modern
 
 ###Course - Undemy
 
-HTML + CSS + JavaScript Vanilla
+HTML + CSS + JavaScript
 
-Acesso no link <https://calculadora-java-script-plum.vercel.app/>
+Acesso no link <https://clock-modern-javascript.vercel.app/>
